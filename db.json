@@ -5,13 +5,9 @@
             "id_str": "3189365826",
             "name": "Riya",
             "screen_name": "mriya413",
-            "location": "Hyderabad, Andhra Pradesh",
-            "url": null,
-            "description": "Wassup??? I am not a human beann...",
-            "protected": true,
-            "followers_count": 21,
-            "friends_count": 262,
-            "listed_count": 0,
+            "location": "Hyderabad, Andhra Pradesh"
+           
+           
             
         },
         {
@@ -19,13 +15,8 @@
             "id_str": "2590881798",
             "name": "shalini",
             "screen_name": "BShalini568",
-            "location": "",
-            "url": null,
-            "description": "",
-            "protected": false,
-            "followers_count": 5,
-            "friends_count": 45,
-            "listed_count": 0,
+            "location": ""
+           
             
         },
         {
@@ -33,13 +24,8 @@
             "id_str": "2463563730",
             "name": "Hemanth",
             "screen_name": "Hemanth7979",
-            "location": "",
-            "url": null,
-            "description": "",
-            "protected": false,
-            "followers_count": 59,
-            "friends_count": 202,
-            "listed_count": 0,
+            "location": ""
+           
            
         },
         {
@@ -47,13 +33,8 @@
             "id_str": "201645880",
             "name": "jyothirmai",
             "screen_name": "jyothss",
-            "location": "",
-            "url": null,
-            "description": "",
-            "protected": true,
-            "followers_count": 6,
-            "friends_count": 125,
-            "listed_count": 0,
+            "location": ""
+           
             
         }
     ]
